@@ -1,0 +1,1130 @@
+﻿[[[%1 changed from '%2' to '%3']]]
+%1 已由'%2' 改为 '%3'
+
+[[[%1 is not valid lifecycle]]]
+%1 不是一个有效的生命周期
+
+[[[%1 most recently updated articles]]]
+%1 最近更新的文章
+
+[[[%1 newest articles]]]
+%1 最新的文章
+
+[[[%1's GnuPG keys]]]
+%1 的GnuPG密钥
+
+[[[%1's current password]]]
+%1 的当前密码
+
+[[[%1m]]]
+%1 分钟
+
+[[[%1s]]]
+%1 秒
+
+[[[%quant(%1,article)]]]
+%1 文章
+
+[[['%1' isn't a valid class identifier]]]
+'%1' 不是一个有效的类型标识符
+
+[[['Roles']]]
+'角色'
+
+[[['System']]]
+'系统'
+
+[[['User Groups']]]
+'用户组'
+
+[[['Users']]]
+'用户'
+
+[[[(Check box to complete)]]]
+(标记要完成的项目)
+
+[[[(Check boxes to delete)]]]
+(标记要删除的项目)
+
+[[[(no Summary)]]]
+(没有摘要)
+
+[[[(no name)]]]
+(没有名称)
+
+[[[<% $field->{'name'} %>]]]
+<% $field->{'name'} %>
+
+[[[<%$Action%> here]]]
+<%$Action%> 在此
+
+[[[<tt>%1</tt> - <i>%2s</i>]]]
+<tt>%1</tt> - <i>%2秒</i>
+
+[[[Action committed.]]]
+动作已指定
+
+[[[Actions]]]
+动作
+
+[[[Active Tickets]]]
+活动的申请单
+
+[[[Add %1]]]
+添加 %1
+
+[[[Add group]]]
+添加组
+
+[[[Add rights for this %1]]]
+为 %1添加权利
+
+[[[Add user]]]
+添加用户
+
+[[[Add, modify and delete custom field values for objects]]]
+添加、修改与删除对象的字段值
+
+[[[Added %1 to members of %2 for this queue.]]]
+添加 %1 为 %2 该队列的成员
+
+[[[Address 2]]]
+地址 2
+
+[[[AdminClass]]]
+管理类别
+
+[[[AdminCustomFieldValues]]]
+管理自定字段值
+
+[[[AdminTopics]]]
+管理主题
+
+[[[Advanced search]]]
+高级搜索
+
+[[[All Articles in this class should be listed in a dropdown of the ticket reply page]]]
+本类型的所有文章都列于申请单回复页面的下拉列表
+
+[[[All Classes]]]
+所有类型
+
+[[[All Dashboards]]]
+所有表单
+
+[[[All Tickets]]]
+所有申请单
+
+[[[All tickets]]]
+所有申请单
+
+[[[All topics]]]
+所有主题
+
+[[[Allow creation of saved searches]]]
+允许创建已存搜索
+
+[[[Allow loading of saved searches]]]
+允许加载已存搜索
+
+[[[Allow writing Perl code in templates, scrips, etc]]]
+允许在模板、脚本等写Perl代码
+
+[[[Any field]]]
+任何字段
+
+[[[Are you sure you want to delete this article?]]]
+确定要删除该文章吗?
+
+[[[Article #%1 deleted]]]
+文章 #%1 已删除
+
+[[[Article #%1: %2]]]
+文章 #%1: %2
+
+[[[Article %1]]]
+文章 %1
+
+[[[Article %1 created]]]
+文章 %1已创建
+
+[[[Article Administration]]]
+文章管理页面
+
+[[[Article Deleted]]]
+文章已删除
+
+[[[Article not found]]]
+文章未找到
+
+[[[Articles]]]
+文章
+
+[[[Articles in %1]]]
+ %1 的文章
+
+[[[Articles matching %1]]]
+匹配 %1的文章
+
+[[[Articles with no topics]]]
+无主题的文章
+
+[[[Assign and remove queue custom fields]]]
+指派或移除队列自定字段
+
+[[[Bcc]]]
+密送
+
+[[[Bookmarkable link for this search]]]
+可添加为书签的该搜索链接
+
+[[[Bookmarked tickets]]]
+已加入书签的申请单
+
+[[[Browse by topic]]]
+根据主题浏览
+
+[[[Browse the SQL queries made in this process]]]
+浏览该进程中的SQL队列
+
+[[[Cannot add link to plain number]]]
+不能为空号码添加链接
+
+[[[Chart]]]
+图表
+
+[[[Chart Properties]]]
+图表属性
+
+[[[Choose from Topics for %1]]]
+从 %1的主题选择
+
+[[[Class]]]
+类型
+
+[[[Class Name]]]
+类型名称
+
+[[[Class id]]]
+类型id
+
+[[[Class is already applied Globally]]]
+类型已应用到全局
+
+[[[Class is already applied to %1]]]
+类型已应用到 %1
+
+[[[Classes]]]
+类型
+
+[[[Configuration for queue %1]]]
+队列 %1的配置
+
+[[[Content is an invalid IP address]]]
+内容是无效的IP地址
+
+[[[Content is an invalid IP address range]]]
+内容是无效的IP地址范围
+
+[[[Could not create search: %1]]]
+无法创建搜索: %1
+
+[[[Could not delete search %1: %2]]]
+无法删除搜索 %1: %2
+
+[[[Could not load Class %1]]]
+无法加载类新 %1
+
+[[[Couldn't compile %1 codeblock '%2': %3]]]
+无法编译 %1 码块 '%2': %3
+
+[[[Couldn't compile template codeblock '%1': %2]]]
+无法编译模板码块 '%1': %2
+
+[[[Couldn't create record: %1]]]
+无法创建记录: %1
+
+[[[Couldn't load the specified principal]]]
+无法加载指定的单位
+
+[[[Couldn't load topic membership while trying to delete it]]]
+在尝试删除的过程中无法加载主题成员
+
+[[[Couldn't resolve '%1' into a Link.]]]
+无法将 '%1' 分解为链接.
+
+[[[Create a Class]]]
+创建类型
+
+[[[Create a new article]]]
+创建新文章
+
+[[[Create a new article in]]]
+创建新文章于
+
+[[[Create a new template for queue %1]]]
+创建队列 %1的新模板
+
+[[[Create an article]]]
+创建文章
+
+[[[Create an article in class...]]]
+在类型...中创建文章
+
+[[[Create articles in this class]]]
+在该类型中创建文章
+
+[[[Create group dashboards]]]
+创建组表单
+
+[[[Create tickets]]]
+创建申请单
+
+[[[Create, modify and delete Access Control List entries]]]
+创建、修改与删除访问控制列表条目
+
+[[[Create, modify and delete custom fields]]]
+创建、修改与删除访问自定字段
+
+[[[Create, modify and delete custom fields values]]]
+创建、修改与删除访问自定字段值
+
+[[[Create, modify and delete queue]]]
+创建、修改与删除访问队列
+
+[[[Create, modify and delete saved searches]]]
+创建、修改与删除访问已存搜索
+
+[[[Create, modify and delete users]]]
+创建、修改与删除访问用户
+
+[[[CreateArticle]]]
+创建文章
+
+[[[Created by]]]
+创建者
+
+[[[Created search %1]]]
+已创建搜索 %1
+
+[[[Current Search]]]
+当前搜索
+
+[[[Custom Fields for queue %1]]]
+队列%1的自定字段
+
+[[[Customize the look of your RT]]]
+自定 RT外观
+
+[[[Delete article #%1]]]
+删除文章 #%1
+
+[[[Delete articles in this class]]]
+删除该类型的文章
+
+[[[Delete group dashboards]]]
+删除组表单
+
+[[[Delete operation is disabled by lifecycle configuration]]]
+删除被生命周期配置停用的操作
+
+[[[DeleteArticle]]]
+删除文章
+
+[[[Deleted search %1]]]
+删除搜索 %1
+
+[[[Detailed information about your RT setup]]]
+ RT设定的详细信息
+
+[[[Display Article %1]]]
+显示文章 %1
+
+[[[Distributed under %1version 2 of the GNU GPL%2.</a>]]]
+分配 GNU GPL%2至 %1版本 2 </a>
+
+[[[Dropdown]]]
+下拉列表
+
+[[[Easy viewing of your reminders]]]
+提醒的便捷视图
+
+[[[Edit Custom Fields for articles in all classes]]]
+编辑所有类型的文章自定字段
+
+[[[Edit global topic hierarchy]]]
+编辑全局主题层次
+
+[[[Edit topic hierarchy for %1]]]
+编辑%1的主题层次
+
+[[[Editing Configuration for Class %1]]]
+编辑类型 %1的配置
+
+[[[Enabled (Unchecking this box disables this class)]]]
+启用 (不勾选将停用该类型)
+
+[[[Enabled Classes]]]
+启用类型
+
+[[[Enter articles, tickets, or other URLs related to this article.]]]
+输入与该文章相关的文章、申请单或其他URL
+
+[[[Enter multiple IP address ranges]]]
+输入多个IP地址范围
+
+[[[Enter multiple IP addresses]]]
+输入多个IP地址
+
+[[[Enter one IP address]]]
+输入一个IP地址
+
+[[[Enter one IP address range]]]
+输入一个IP地址范围
+
+[[[Enter up to %1 IP address ranges]]]
+最多可输入%1的IP地址范围
+
+[[[Enter up to %1 IP addresses]]]
+最多可输入%1的IP地址
+
+[[[Error: cannot change privacy value of existing search]]]
+错误: 无法改变当前搜索的隐私值
+
+[[[Error: could not load saved search %1: %2]]]
+错误: 无法加载已存搜索 %1: %2
+
+[[[Error: search %1 not updated: %2]]]
+错误: 搜索 %1 未更新: %2
+
+[[[ExecuteCode]]]
+执行代码
+
+[[[Extract Article]]]
+提取文章
+
+[[[Extract a new article from ticket #%1]]]
+从申请单 #%1提取新文章
+
+[[[Extract article from ticket #%1 into class %2]]]
+从申请单 #%1中提取文章至类型 %2
+
+[[[Feeds]]]
+种子
+
+[[[Field]]]
+字段
+
+[[[Fingerprint]]]
+指纹
+
+[[[Forward messages outside of RT]]]
+转发信息至RT之外
+
+[[[Forwarded Ticket to %1]]]
+转发申请单至%1
+
+[[[Forwarded Transaction #%1 to %2]]]
+转发事务#%1至%2
+
+[[[General rights]]]
+一般权利
+
+[[[GnuPG private keys]]]
+GnuPG私钥
+
+[[[Go to user]]]
+跳到用户
+
+[[[Goto Ticket]]]
+跳到申请单
+
+[[[Group name '%1' is already in use]]]
+组名称 '%1'已经被使用
+
+[[[Hide quoted text]]]
+隐藏引用文本
+
+[[[Hide ticket history by default]]]
+默认隐藏申请单历史
+
+[[[History for article #%1]]]
+文章 #%1的历史
+
+[[[Home Phone]]]
+家庭电话
+
+[[[If you've changed the Port that RT runs on, you'll need to restart the server in order to log in.]]]
+如果您改变了RT运行的端口，您需要重启服务器才能登录。
+
+[[[Inactive Tickets]]]
+非活动的申请单
+
+[[[Include Article:]]]
+包括文章:
+
+[[[Include disabled classes in listing.]]]
+包括列表中停用的类型
+
+[[[Include subtopics]]]
+包括副主题
+
+[[[Input can not be parsed as an IP address]]]
+输入无法解析为IP地址
+
+[[[Input can not be parsed as an IP address range]]]
+输入无法解析为IP地址范围
+
+[[[Internal error: %1]]]
+内部错误: %1
+
+[[[Invalid %1]]]
+无效 %1
+
+[[[Invalid %1 argument]]]
+无效 %1 参数
+
+[[[Invalid Class]]]
+无效类型
+
+[[[Invalid Custom Field values source]]]
+无效自定字段值来源
+
+[[[Invalid Queue, unable to apply Class: %1]]]
+无效队列，无法应用类型: %1
+
+[[[Invalid Render Type]]]
+无效渲染类型
+
+[[[Invalid Render Type for custom field of type %1]]]
+无效的类型 %1自定字段渲染类型
+
+[[[Invalid lifecycle name]]]
+无效生命周期名称
+
+[[[Invalid queue role group type %1]]]
+无效队列角色组类型 %1
+
+[[[Join or leave group]]]
+加入或退出组
+
+[[[Keyword and intuition-based searching]]]
+基于关键词与直观的搜索
+
+[[[Last updated]]]
+上次更新
+
+[[[Lifecycle]]]
+生命周期
+
+[[[List]]]
+列表
+
+[[[Load a saved search]]]
+加载已存搜索
+
+[[[Load saved search]]]
+加载已存搜索
+
+[[[Loading...]]]
+正在加载...
+
+[[[Logged in]]]
+已登录
+
+[[[Logged in as <span class=\"current-user\">%1</span>]]]
+以 <span class=\"current-user\">%1</span>登录
+
+[[[Mapping between queues' lifecycles is incomplete. Contact your system administrator.]]]
+未完成队列生命周期之间的绘图，请联系系统管理员。
+
+[[[Me]]]
+我
+
+[[[Message body is not shown because it is too large.]]]
+由于信息过大，信息内容未显示
+
+[[[Message box wrapping]]]
+消息框包装
+
+[[[Miscellaneous]]]
+杂项
+
+[[[Mobile Phone]]]
+移动电话
+
+[[[Modify]]]
+更改
+
+[[[Modify Scrip templates]]]
+更改脚本模板
+
+[[[Modify Scrips]]]
+更改脚本
+
+[[[Modify article #%1]]]
+更改文章 #%1
+
+[[[Modify global topics]]]
+更改全局主题
+
+[[[Modify group dashboards]]]
+更改组表单
+
+[[[Modify group membership roster]]]
+更改组成员名单
+
+[[[Modify group rights for Class %1]]]
+更改类型 %1的组权利
+
+[[[Modify metadata and custom fields for this class]]]
+更改该类型的元数据与自定字段
+
+[[[Modify or delete articles in this class]]]
+更改或删除该类型的文章
+
+[[[Modify queue watchers]]]
+更改队列的关注者
+
+[[[Modify template %1 for queue %2]]]
+更改队列%2为模板%1 
+
+[[[Modify the content of dashboard %1]]]
+更改表单 %1的内容哦
+
+[[[Modify this search...]]]
+更改该搜索...
+
+[[[Modify ticket status]]]
+更改申请单状态
+
+[[[Modify topic for %1]]]
+更改 %1的主题
+
+[[[Modify topic hierarchy associated with this class]]]
+更改与该类型相关的主题层次
+
+[[[Modify topics for articles in this class]]]
+更改该类型的文章主题
+
+[[[Modify user rights for class %1]]]
+更改类型 %1的用户权利
+
+[[[Modify who receives mail for ticket #%1]]]
+更改申请单 #%1邮件的接收者
+
+[[[ModifyArticle]]]
+更改文章
+
+[[[ModifyArticleTopics]]]
+更改文章主题
+
+[[[ModifyTicketStatus]]]
+更改申请单状态
+
+[[[Mon-Fri at %1]]]
+ %1 周一至周五
+
+[[[More about the requestors]]]
+关于申请者的更多情况
+
+[[[My Approvals]]]
+我的批准
+
+[[[My Reminders]]]
+我的提醒
+
+[[[My reminders]]]
+我的提醒
+
+[[[Name:]]]
+名称:
+
+[[[New Article]]]
+新文章
+
+[[[New Dashboard]]]
+新表单
+
+[[[New tickets can not have status '%1' in this queue.]]]
+该队列的新申请单的状态不能为 '%1'.
+
+[[[No Articles match %1]]]
+没有匹配 %1的文章
+
+[[[No Classes matching search criteria found.]]]
+没有找到匹配搜索条件的类型.
+
+[[[No RT user found. Please consult your RT administrator.]]]
+没有找到RT用户.请咨询您的RT管理员.
+
+[[[No permission to modify article]]]
+没有更改文章的权限
+
+[[[No permission to view Article]]]
+没有查看文章的权限
+
+[[[No value sent to _Set!]]]
+没有发送至 _Set的值!
+
+[[[Not using a mobile browser?]]]
+未使用移动浏览器?
+
+[[[Pager Phone]]]
+寻呼电话
+
+[[[Password not printed]]]
+密码未打印
+
+[[[People related to queue %1]]]
+与队列 %1有关的人
+
+[[[Perl]]]
+Perl
+
+[[[Permanently wipeout data from RT]]]
+永久删除RT的数据
+
+[[[Please note that only tickets with one of these statuses( %1 ) are displayed here. For more powerful searches please visit the <a href=\"<%RT->Config->Get('WebPath')%>/Search/Build.html\">search builder interface</a>.]]]
+请注意只有具有以下状态( %1 )之一的申请单会在此显示。 关于功能更加强大的搜索，请访问 <a href=\"<%RT->Config->Get('WebPath')%>/Search/Build.html\">搜索生成器界面</a>.
+
+[[[Quick Create]]]
+快速创建
+
+[[[Recipients]]]
+收件人
+
+[[[Refer to]]]
+参考
+
+[[[Reject tickets]]]
+驳回申请单
+
+[[[RejectTicket]]]
+驳回申请单
+
+[[[Remember default queue]]]
+记住默认队列
+
+[[[Reminder]]]
+提醒
+
+[[[Removed %1 from members of %2 for this queue.]]]
+在该队列将%1的%2成员资格移除.
+
+[[[Render Type]]]
+渲染类型
+
+[[[Replaces the owner dropdowns with textboxes]]]
+用文本框来替代所有者的下拉列表
+
+[[[Reset RT at a glance]]]
+重置RT 
+
+[[[Rights for Administrators]]]
+管理员的权利
+
+[[[Rights for Staff]]]
+工作人员的权利
+
+[[[SQL Queries]]]
+SQL 查询
+
+[[[Save new]]]
+保存为新文件
+
+[[[Save this search]]]
+保存该搜索
+
+[[[Saved Searches]]]
+已存搜索
+
+[[[Saved search %1 not found]]]
+未找到已存搜索 %1 
+
+[[[Search %1 updated]]]
+搜索 %1已更新
+
+[[[Search Articles]]]
+搜索文章
+
+[[[Search for Articles articles matching]]]
+根据文章匹配搜索文章
+
+[[[Search for Articles matching]]]
+搜索文章匹配
+
+[[[Search for articles]]]
+搜索文章
+
+[[[Search results]]]
+搜索结果
+
+[[[See articles in this class]]]
+在该类型搜索文章
+
+[[[See that this class exists]]]
+保证类型存在
+
+[[[SeeClass]]]
+查看类型
+
+[[[Select Custom Fields for Articles in all Classes]]]
+选择所有类型文章的自定字段
+
+[[[Select a Class]]]
+选择类型
+
+[[[Select a color for the section]]]
+选择段落的颜色
+
+[[[Select a section]]]
+选择段落
+
+[[[Select an Article from %1]]]
+从 %1中选择文章
+
+[[[Select an Article to include]]]
+选择文章以包括
+
+[[[Select box]]]
+选择框
+
+[[[Select date]]]
+选择日期
+
+[[[Select datetime]]]
+选择时间
+
+[[[Select multiple dates]]]
+选择多个日期
+
+[[[Select multiple datetimes]]]
+选择多个时间
+
+[[[Select topics for this article]]]
+选择该文章的主题
+
+[[[Select up to %1 dates]]]
+最多可选择%1的日期
+
+[[[Select up to %1 datetimes]]]
+最多可选择%1的时间
+
+[[[Selected Queues]]]
+已选队列
+
+[[[Separate multiple entries with spaces.]]]
+以空格区分多个条目
+
+[[[Show Approvals tab]]]
+显示批准标签栏
+
+[[[Show Configuration tab]]]
+显示配置标签栏
+
+[[[Show global templates]]]
+显示全局模板
+
+[[[Show no tickets for the Requestor]]]
+对申请者显示无申请单
+
+[[[Show quoted text]]]
+显示引用文本
+
+[[[Show the Requestor's 10 highest priority closed tickets]]]
+显示申请者10个最优先的关闭申请单
+
+[[[Show the Requestor's 10 highest priority open tickets]]]
+显示申请者10个最优先的开放申请单
+
+[[[Show the Requestor's 10 highest priority tickets]]]
+显示申请者10个最优先的申请单
+
+[[[ShowArticle]]]
+显示文章
+
+[[[ShowArticleHistory]]]
+显示文章历史
+
+[[[ShowGlobalTemplates]]]
+显示全局模板
+
+[[[Simple]]]
+简单
+
+[[[Status '%1' isn't a valid status for tickets in this queue.]]]
+状态 '%1'不是该队列申请单的有效状态.
+
+[[[Status changes]]]
+状态改变
+
+[[[Summary]]]
+摘要
+
+[[[System error]]]
+系统错误
+
+[[[Template compiles]]]
+模板编译
+
+[[[Template does not include Perl code]]]
+模板不包括Perl代码
+
+[[[Template parsing error: %1]]]
+模板解析错误: %1
+
+[[[Templates for queue %1]]]
+队列 %1的模板
+
+[[[The Class of the Article identified by %1 is not applied to the current Queue]]]
+标识为%1的文章类型不适用于当前队列
+
+[[[The following command will find all active tickets in the queue 'general' and set their priority to 99 if they are overdue:]]]
+以下命令将在“一般”队列中找到所有活动的申请单，如果已经过期的话则将其优先值设为99：
+
+[[[There is more than one group with the name '%1'.  This may cause inconsistency in parts of the admin interface, and therefore it's recommended you rename the conflicting groups.]]]
+有超过一个名为'%1'的组。这将会造成部分管理界面的矛盾，因此建议您重命名有冲突的组。
+
+[[[There is no mapping for statuses between these queues. Contact your system administrator.]]]
+没有该队列之间状态的绘图，请联系系统管理员。
+
+[[[This Custom Field can not have list of values]]]
+该自定字段不能具有值列表
+
+[[[This custom field has no Render Types]]]
+该自定字段没有渲染类型
+
+[[[This feature is only available to system administrators.]]]
+该特征只适用于系统管理员。
+
+[[[This server process has recorded no SQL queries.]]]
+服务器进程记录没有SQL查询.
+
+[[[This user's %1 highest priority %2 tickets]]]
+用户 %1最优先处理的%2 申请单
+
+[[[Ticket and Transaction]]]
+申请单与事务
+
+[[[Ticket composition]]]
+申请单构成
+
+[[[Ticket update]]]
+申请单更新
+
+[[[Toggle %quant(%1,query,queries)]]]
+切换%1 查询
+
+[[[Toggle stack trace]]]
+切换堆栈轨迹
+
+[[[Topic Name]]]
+主题名称
+
+[[[Topic membership added]]]
+主题成员已添加
+
+[[[Topic membership removed]]]
+主题成员已移除
+
+[[[Topic not found]]]
+未找到主题
+
+[[[Topics]]]
+主题
+
+[[[Type <b>a:</b> before article numbers and <b>t:</b> before ticket numbers.]]]
+在文章数目前输入<b>a:</b> ，在申请单数目前输入 <b>t:</b> 
+
+[[[Unable to add topic membership]]]
+无法添加主题成员
+
+[[[Unable to delete topic membership in %1]]]
+无法删除 %1的主题成员
+
+[[[Unable to load article]]]
+无法加载文章
+
+[[[Unable to read image: %1]]]
+无法读图像: %1
+
+[[[Unable to set UserCSS: %1]]]
+无法设置用户CSS: %1
+
+[[[Unable to set UserLogo: %1]]]
+无法设置用户Logo: %1
+
+[[[Unable to set privacy id: %1]]]
+无法设置隐私id: %1
+
+[[[Unable to set privacy object or id: %1]]]
+无法设置隐私对象或id: %1
+
+[[[Unable to set privacy object: %1]]]
+无法设置隐私对象: %1
+
+[[[Unable to subscribe to dashboard %1: Permission Denied]]]
+无法订阅表单 %1: 权限被拒绝
+
+[[[Uncheck boxes to disable notifications to the listed recipients <b>for this transaction only</b>; persistent squelching is managed on the <a href=\"%1\">People page</a>.]]]
+Uncheck boxes to disable notifications to the listed recipients <b>仅针对该事务</b>不勾选以停止通知列出的收件人；在<a href=\"%1\">“人员页面”</a>中进行永久取消的管理。
+
+[[[Unnamed dashboard]]]
+未命名表单
+
+[[[Unowned tickets]]]
+未分配的申请单
+
+[[[Unselected Queues]]]
+未选中队列
+
+[[[Update Chart]]]
+更新图表
+
+[[[Upload a new logo]]]
+上传新logo
+
+[[[Usage:]]]
+使用情况:
+
+[[[Use a two column layout for create and update forms?]]]
+使用两列的布局来创建与更新表单?
+
+[[[Use autocomplete to find owners?]]]
+使用自动完成来寻找所有者?
+
+[[[Use the dropdown menus to select which ticket updates you want to extract into a new article.]]]
+使用下拉列表菜单来选择您想要提取为新文章的申请单更新。
+
+[[[View Scrip templates]]]
+查看脚本模板
+
+[[[View Scrips]]]
+查看脚本
+
+[[[View custom field values]]]
+查看自定字段值
+
+[[[View custom fields]]]
+查看自定字段
+
+[[[View exact outgoing email messages and their recipients]]]
+查看精确的外部email信息及其收件人
+
+[[[View group]]]
+查看组
+
+[[[View group dashboards]]]
+查看组表单
+
+[[[View queue]]]
+查看队列
+
+[[[View saved searches]]]
+查看已存搜索
+
+[[[View ticket private commentary]]]
+查看申请单隐私评论
+
+[[[View ticket summaries]]]
+查看申请单摘要
+
+[[[WARNING: Saving search to user-level privacy]]]
+警告: 保存搜索为用户层次隐私
+
+[[[We can't currently render as a List when basing categories on another custom field.  Please use another render type.]]]
+当类别以另一自定字段为基础时，我们当前无法渲染为列表。请使用其他的渲染类型。
+
+[[[When the WYSIWYG editor is not enabled, this setting determines whether automatic line wraps in the ticket message box are sent to RT or not.]]]
+WYSIWYG 编辑器未启用时，设置将决定自动换行线是否发送至
+
+[[[Work Phone]]]
+工作电话
+
+[[[You <a href=\"%1\">may edit this dashboard</a> and <a href=\"%2\">your subscription</a> to it in RT.]]]
+您可以在RT<a href=\"%1\">编辑该表单</a> 与 <a href=\"%2\">您的订阅</a> to it in RT.
+
+[[[You can insert ticket content into any freeform, text or wiki field.]]]
+您不能在申请单内容插入任何自由形式、文本或wiki字段
+
+[[[You can't change status from '%1' to '%2'.]]]
+您不能将改变状态 '%1'至'%2'.
+
+[[[You have enabled GnuPG support but have not set a comment address for this queue.]]]
+您已经启用GnuPG支持但是没有为该队列设置评论地址
+
+[[[You have enabled GnuPG support but have not set a correspondence address for this queue.]]]
+您已经启用GnuPG支持但是没有为该队列设置一致的地址
+
+[[[You may enter links to Articles as \"a:###\", where ### represents the number of the Article.]]]
+您可以为文章添加 \"a:###\"形式的链接，###代表文章的数字
+
+[[[You must set StatementLog to true to enable this query history page.]]]
+您必须设置指令日志为真以启用该队列的历史页面
+
+[[[You must set a comment address for this queue in order to configure a GnuPG private key.]]]
+您必须为该队列设定一个评论地址以配置GnuPG私钥
+
+[[[You must set a correspondence address for this queue in order to configure a GnuPG private key.]]]
+您必须为该队列设定一个一致的地址以配置GnuPG私钥
+
+[[[a custom field]]]
+自定字段
+
+[[[active]]]
+活动的
+
+[[[and before]]]
+与之前
+
+[[[and not]]]
+与否
+
+[[[body]]]
+主体
+
+[[[check this box to apply this Class globally to all Queues.]]]
+选中本框以在全局全部的队列应用该类型。
+
+[[[check this box to remove this Class globally and be able to choose specific Queues.]]]
+选中本框以在全局移除该类型，并能够选择特定的队列。
+
+[[[duration]]]
+持续
+
+[[[group]]]
+组
+
+[[[hide quoted text]]]
+隐藏引用文本
+
+[[[in class %1]]]
+在类型 %1
+
+[[[inactive]]]
+非活动的
+
+[[[includes %1]]]
+包括 %1
+
+[[[index]]]
+索引
+
+[[[requires running rt-crontool]]]
+需要运行 rt-crontool
+
+[[[show quoted text]]]
+显示引用文本
+
+[[[sidebar]]]
+侧边栏
+
+[[[statement]]]
+指令
+
+[[[user]]]
+用户
+
+[[[username]]]
+用户名

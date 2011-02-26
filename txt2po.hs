@@ -11,8 +11,23 @@ main = do
     if null txtFiles then usage else forM_ txtFiles $ \file -> withFile file ReadMode $ \h -> do
         hSetNewlineMode h universalNewlineMode
         txt <- T.hGetContents h
-        T.writeFile (file ++ ".po") $ T.concat $ map formatChunk . tail $ T.splitOn "[[[" txt
+        T.writeFile (file ++ ".po") $ standardHeader <> (T.concat $ map formatChunk . tail $ T.splitOn "[[[" txt)
         hPutStrLn stderr $ "*** Written PO file: " ++ file ++ ".po"
+
+standardHeader = T.concat
+    [ "msgid \"\""
+    , "msgstr \"\""
+    , "\"Project-Id-Version: RT 3.8.x\\n\""
+    , "\"Report-Msgid-Bugs-To: \\n\""
+    , "\"POT-Creation-Date: 2010-04-27 03:03+0000\\n\""
+    , "\"PO-Revision-Date: 2010-10-31 23:53+0000\\n\""
+    , "\"Last-Translator: sunnavy <sunnavy@gmail.com>\\n\""
+    , "\"Language-Team: rt-devel <rt-devel@lists.bestpractical.com>\\n\""
+    , "\"Language: \\n\""
+    , "\"MIME-Version: 1.0\\n\""
+    , "\"Content-Type: text/plain; charset=UTF-8\\n\""
+    , "\"Content-Transfer-Encoding: 8bit\\n\""
+    ]
 
 (<>) = T.append
 formatChunk :: Text -> Text
