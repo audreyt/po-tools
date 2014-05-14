@@ -1,3 +1,5 @@
+
+
 demo ::
 	@-rm -rf demo
 	cp -Rf eg demo
@@ -15,3 +17,13 @@ demo ::
 	msgmerge -N --previous -s --no-wrap demo/RequestTracker-zh_CN.txt.po demo/zh_CN.po > demo/merged-zh_CN.po
 	@echo ""
 	@echo "### All Done! See demo/merged-zh_CN.po for the final output."
+
+bin/%: %.hs
+	ghc -o $@ $<
+
+bin: bin/po2txt bin/txt2po
+
+clean:
+	rm -rfv bin/* *.hi *.o
+
+.PHONY: bin
