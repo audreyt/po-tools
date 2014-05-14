@@ -2,6 +2,9 @@ Haskell Platform 2011.2 is required.  Test installer is available here:
 
     http://projects.haskell.org/pipermail/haskell-platform/2011-February/001400.html
 
+Demo
+--------
+
 Please type "make demo" to see a worked example of localizing RT4 with myGengo using po2txt/txt2po.
 A sample run would look like this:
 
@@ -23,3 +26,12 @@ A sample run would look like this:
     ................................................................................................................................................................................................................................................................................... 完成。
 
 ### All Done! See demo/merged-zh_CN.po for the final output.
+
+
+Build
+-----
+To build `po2txt`/`txt2po` as binary, simply run:
+
+    make bin
+
+`po2txt` and `txt2po` will be built in the `bin` directory.
